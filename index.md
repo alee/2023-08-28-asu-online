@@ -403,8 +403,7 @@ python-novice-gapminder lesson
 </a> as well for Day 2. 
 
 After you have anaconda installed, you'll also need to download the <a
-href='http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip'>Python gapminder dataset</a> downloaded and available to your Jupyter instance.
-
+href='http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip'>gapminder dataset</a> and unzip it to a `data` directory that's accessible to your Jupyter notebook.
 </p>
 
 <p>
