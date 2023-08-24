@@ -305,6 +305,12 @@ available at https://codimd.carpentries.org
 <p>
 We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
+<p>
+If you have trouble setting up any bits of the environment or have any questions before / during / after a lesson on shell,
+git, or Jupyter please post your issues to our 
+<a href='https://github.com/alee/2023-08-28-asu-online/discussions/categories/q-a'>GitHub Discussions</a> - you'll need a GitHub
+account to post to the Discussions but those are free, and <a href='https://education.github.com/pack/join'>carry additional benefits</a>.
+
 <hr/>
 {% endif %}
 
