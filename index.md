@@ -403,14 +403,14 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-NOTE: in addition to installing the software listed below, please make sure you follow the setup instructions for the
-<a href='http://swcarpentry.github.io/python-novice-gapminder/index.html#setup'>
-python-novice-gapminder lesson 
-</a> as well for Day 2. 
+NOTE: in addition to installing the software listed below, please make sure you follow the setup instructions for each
+of the lessons linked in the <a href='#schedule'>Schedule</a>.
 
-After you have anaconda installed, you'll also need to download the <a
-href='http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip'>gapminder dataset</a> and unzip it to a `data` directory that's accessible to your Jupyter notebook.
-</p>
+Additional data files needed:
+<ul>
+<li>Day 1 - <a href='https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip'>shell-lesson-data.zip</a></li>
+<li>Day 2 - <a href='http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip'>python-novice-gapminder-data.zip</a></li>
+</ul>
 
 <p>
   To participate in a
